@@ -4,7 +4,8 @@
   "description": "[Events and Emitters - Slides](http://slides.com/theremix/events-and-emitters)",
   "main": "index.js",
   "scripts": {
-    "test": "mocha 'lib/*.spec.js'"
+    "test": "mocha 'lib/*.spec.js'",
+    "watch": "mocha -w 'lib/*.spec.js'"
   },
   "repository": {
     "type": "git",
