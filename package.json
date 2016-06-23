@@ -1,0 +1,16 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicTimer.js",
+  "scripts": {
+    "test": "mocha 'lib/*.spec.js'",
+    "watch": "mocha -w 'lib/*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kekuso/Delta-Force.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
